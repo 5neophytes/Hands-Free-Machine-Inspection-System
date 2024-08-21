@@ -1,5 +1,6 @@
 import sounddevice as sd
 from scipy.io.wavfile import write
+# code to record custom audio questions in the inspection
 
 # Parameters for the recording
 sample_rate = 44100  # Sample rate in Hz
